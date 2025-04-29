@@ -45,10 +45,7 @@ Como foi feito fork, cole o link do git pages na aba About do seu repositório o
         "nome":"Hamburguer",
         "ingredientes": [
             "Pão",
-            "Carne",
-            "Queijo",
-            "Alface",
-            "Tomate"
+            "Carne"
         ],
         "preco": 15.00
     },
@@ -58,10 +55,7 @@ Como foi feito fork, cole o link do git pages na aba About do seu repositório o
         "ingredientes":[
             "Pão",
             "Carne",
-            "Queijo",
-            "Bacon",
-            "Alface",
-            "Tomate"
+            "Queijo"
         ]
     },
     {
@@ -97,7 +91,6 @@ Como foi feito fork, cole o link do git pages na aba About do seu repositório o
             "Pão",
             "Carne",
             "Queijo",
-            "Bacon",
             "Alface",
             "Tomate",
             "Ovo"
