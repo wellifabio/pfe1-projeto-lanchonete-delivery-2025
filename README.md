@@ -32,7 +32,7 @@ Situação de Aprendizagem - Front-End (HTML, CSS, JavaScript). Funcionalidades 
 |![Wireframe Web3](./wireframes/wireframe3.png)|![Wireframe Mobile2](./wireframes/wireframe4.png)|
 
 ## Entrega
-A prova deve ser entregue pelo gitpages (OBRIGATÓRIO).
+A atividade deve ser entregue pelo gitpages (OBRIGATÓRIO).
 
 ### A seguir os dados para os lanches
 
